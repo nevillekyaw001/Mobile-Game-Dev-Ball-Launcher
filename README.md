@@ -11,3 +11,7 @@ Testing Device Simulation, Target Groups, New Input System with Touch &amp; Dyna
 3. Cinemachine Target Group Camera for Dynamic Zoom for any mobile devices
 
 <img width="340" alt="Screen Shot 2022-10-09 at 13 01 35" src="https://user-images.githubusercontent.com/103945243/194742834-b8fdfe87-1a9e-4808-b5ba-903162a1ce11.png">
+
+4. Using New Input System to simulate Touch feature and used Enchaned Touch to enable multiple touches.
+
+
